@@ -1,4 +1,4 @@
-<img align="center" style="height:350px; width:1000px; border:1px white; border-radius:10px; " src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
+<img align="center" style="height:250px; width:1000px; border:1px white; border-radius:10px; " src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <h1 align="center">Hi 👋, I'm Malay Maity</h1>
 <h3 align="center">A passionate Software Engineer & advanced Data Structure solver from India</h3>
