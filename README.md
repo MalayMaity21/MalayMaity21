@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Malay Maity</h1>
 <h3 align="center">A passionate Software Engineer & advanced Data Structure solver from India</h3>
 
-<img align="right" alt="coding"  id=pic width="400" height="400" border="2"  src="https://i.gifer.com/Ry6p.gif">
+<img align="right" alt="coding"  id=pic width="350" height="350" border="2"  src="https://i.gifer.com/Ry6p.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malaymaity21&label=Profile%20views&color=0e75b6&style=flat" alt="malaymaity21" /> </p>
