@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+<img align="center" style="height:350px; width:1000px; " src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <h1 align="center">Hi 👋, I'm Malay Maity</h1>
 <h3 align="center">A passionate Software Engineer & advanced Data Structure solver from India</h3>
