@@ -1,3 +1,16 @@
+
+###
+
+<img align="center" style="height:250px; width:1000px; border:1px white; border-radius:10px; " src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
+
+<h1 align="center">Hi 👋, I'm Malay Maity</h1>
+<h3 align="center">A passionate Software Engineer & advanced Data Structure solver from India</h3>
+
+<img align="right" alt="coding"  id=pic width="350" height="350" border="2"  src="https://i.gifer.com/Ry6p.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=malaymaity21&label=Profile%20views&color=0e75b6&style=flat" alt="malaymaity21" /> </p>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,18 +42,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<img align="center" style="height:250px; width:1000px; border:1px white; border-radius:10px; " src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
-
-<h1 align="center">Hi 👋, I'm Malay Maity</h1>
-<h3 align="center">A passionate Software Engineer & advanced Data Structure solver from India</h3>
-
-<img align="right" alt="coding"  id=pic width="350" height="350" border="2"  src="https://i.gifer.com/Ry6p.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malaymaity21&label=Profile%20views&color=0e75b6&style=flat" alt="malaymaity21" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
