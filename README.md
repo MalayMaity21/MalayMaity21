@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
-- 📫 How to reach me **maitymalay27747@gmail.com**
+- 📫 How to reach me **maitymalay27747@gmail.com** **maitymalay334@gmail.com**
 
 - ⚡ Fun fact **I have different personality ,use for different persons**
 
