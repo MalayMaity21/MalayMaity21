@@ -92,9 +92,9 @@
 
 <p align="left">
   <a href="https://github.com/rimanshupatel">      
-<img title="stats" alt="streak" width=450  src="https://github-readme-streak-stats.herokuapp.com/?user=rimanshupatel&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" width=450  src="https://github-readme-streak-stats.herokuapp.com/?user=malaymaity21&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 
 <a href="https://github.com/rimanshupatel">      
-<img title="stats" alt="streak" width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimanshupatel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img title="stats" alt="streak" width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaymaity21 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </a>
